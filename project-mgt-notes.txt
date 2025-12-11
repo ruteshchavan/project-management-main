@@ -1,0 +1,8 @@
+*clerk/clerk-react - It is a React package or authentication library used for login & signup.
+*cors - package is used to connect backend with any frontend url.
+*dotenv - package to use any enviornment variable.
+*nodemon - Nodemon is a development tool that auto-restarts a Node.js app whenever the code changes. 
+*clerk/express - package that adds authentication for express.
+*neon db - it is fully managed serverless postgre db.
+         - it comes with powerfull features branching and auto-scaling
+*Prisma - a tool to talk to your database using JavaScript/TypeScript.  
