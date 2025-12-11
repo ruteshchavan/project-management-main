@@ -6,3 +6,10 @@
 *neon db - it is fully managed serverless postgre db.
          - it comes with powerfull features branching and auto-scaling
 *Prisma - a tool to talk to your database using JavaScript/TypeScript.  
+
+
+
+project flow :
+1. added user authentication 
+2. connected database
+3. connected inngest and created inngest functions to manage bg jobs and using that store userdata in db(neon db)
